@@ -27,6 +27,6 @@ I'm the **Game Developer**.
 <div style="display: flex; align-items: center;">
 <img src="img/HTML.png" height=50 style="margin:0 20px;">
 <img src="img/CSS.png" height=50 style="margin:0 20px;">
-<img src="img/Tailwind_CSS_Logo.svg.png" height=30 style="margin:0 20px;">
+<img src="img/Tailwind_CSS_Logo.svg.png" height=50 style="margin:0 20px;">
 <img src="img/apps-figma.svg" height=50 style="margin:0 20px;">
 </div>
