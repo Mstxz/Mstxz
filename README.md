@@ -4,32 +4,24 @@ I'm the **Game Developer**.
 
 ## Experiences
 
-### Game Development
-
-<div style="display: flex; align-items: center;">
-    <img src="img/Unity.png" height=50 style="margin:0 20px;">
-    <img src="img/Godot_icon.svg.png" height=50 style="margin:0 20px;">
-    <img src="img/RBS.png" height=50 style="margin:0 20px;">
-    <img src="img/Blender.png" height=50 style="margin:0 20px;">
-</div>
-
-### Programming languages
-
-<div style="display: flex; align-items: center;">
-<img src="img/5848152fcef1014c0b5e4967.png" height=50 style="margin:0 20px;">
-<img src="img/C.png" height=50 style="margin:0 20px;">
-<img src="img/CS.png" height=50 style="margin:0 20px;">
-<img src="img/Lua.png" height=50 style="margin:0 20px;">
-</div>
-
-### Web Development
-
-<div style="display: flex; align-items: center;">
-<img src="img/HTML.png" height=50 style="margin:0 20px;">
-<img src="img/CSS.png" height=50 style="margin:0 20px;">
-<img src="img/Tailwind_CSS_Logo.svg.png" height=50 style="margin:0 20px;">
-<img src="img/apps-figma.svg" height=50 style="margin:0 20px;">
-</div>
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Static Badge](https://img.shields.io/badge/robloxstudio-game?style=for-the-badge&logo=robloxstudio&logoColor=white&labelColor=3ca3e1&color=3ca3e1)
+![Static Badge](https://img.shields.io/badge/godot-game?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=5d97ba&color=5d97ba)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Social Media
 
@@ -40,6 +32,5 @@ I'm the **Game Developer**.
 
 ### GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![.](https://github-readme-stats.vercel.app/api?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![.](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
