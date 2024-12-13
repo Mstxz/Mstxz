@@ -1,8 +1,16 @@
 # Mstxz
 
-I'm the **Game Developer**.
+I'm the **Game Developer** and **Front-end Developer**. Study at B.Sc. Information Technology, KMITL.
+
+Currently working as **3D artist** and **Blender 3D Teacher Director** at Hamster Hub.
 
 ## Experiences
+
+- **Game Development**
+- **Web Development**
+- **2D/3D Art**
+- **Graphic Design**
+- **Music Production**
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/robloxstudio-game?style=for-the-badge&logo=robloxstudio&logoColor=white&labelColor=3ca3e1&color=3ca3e1)
@@ -23,14 +31,14 @@ I'm the **Game Developer**.
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Social Media
+## Social Media
 
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mstxz.blend)
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewadee-seeda-1bb16830b/)
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Mstxz-exe)
 [![Static Badge](https://img.shields.io/badge/Soundcloud-red?style=for-the-badge&logo=Soundcloud&logoColor=white&labelColor=orange&color=orange&cacheSeconds=https%3A%2F%2Fwww.youtube.com%2F%40Mstxz-exe)](https://soundcloud.com/mstxz-exe)
 
-### GitHub Stats
+## GitHub Stats
 
 ![.](https://github-readme-stats.vercel.app/api?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![.](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
