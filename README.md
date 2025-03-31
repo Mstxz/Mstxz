@@ -40,6 +40,6 @@ Currently working as **3D artist** and **Blender 3D Teacher Director** at Hamste
 
 ## GitHub Stats
 
-![.](https://github-readme-stats.vercel.app/api?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Mstxz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mstxz&theme=vue-dark&hide_border=true)
-![.](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Mstxz's Stats](https://github-readme-stats.vercel.app/api?username=Mstxz&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+![Mstxz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mstxz&theme=shades-of-purple&hide_border=true)
+![Mstxz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
