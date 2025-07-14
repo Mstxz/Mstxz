@@ -37,6 +37,7 @@ I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMI
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Social Media
 
@@ -47,5 +48,6 @@ I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMI
 
 ## GitHub Stats
 
-![.](https://github-readme-stats.vercel.app/api?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![.](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Mstxz's Stats](https://github-readme-stats.vercel.app/api?username=Mstxz&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+![Mstxz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mstxz&theme=shades-of-purple&hide_border=true)
+![Mstxz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
