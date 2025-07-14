@@ -9,7 +9,7 @@ I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMI
 - **Web Development**
 - **Music Production**
 
-<h1 style="color: #e0c7ea; background: #6e4280;">Tech Stack</h1>
+## Tech Stack
 
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
