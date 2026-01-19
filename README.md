@@ -59,4 +59,4 @@ I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMI
 
 ## GitHub Stats 📊
 
-[![Mstxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mstxz)](https://github.com/anuraghazra/github-readme-stats)
+![Mstxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mstxz&commits_year=2025)
