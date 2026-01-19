@@ -1,4 +1,4 @@
-# Mstxz
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Slim&pause=1000&color=E8F5F7&background=231537C1&center=true&vCenter=true&width=435&lines=Mstxz)](https://git.io/typing-svg)
 
 I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMITL.
 
