@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Slim&pause=1000&color=E8F5F7&background=231537C1&center=true&vCenter=true&width=435&lines=Mstxz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Slim&pause=1000&color=E8F5F7&background=231537C1&center=true&vCenter=true&width=600&lines=Mstxz)](https://git.io/typing-svg)
 
 I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMITL.
 
@@ -59,6 +59,4 @@ I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMI
 
 ## GitHub Stats 📊
 
-![Mstxz's Stats](https://github-readme-stats.vercel.app/api?username=Mstxz&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
-![Mstxz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mstxz&theme=shades-of-purple&hide_border=true)
-![Mstxz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&theme=shades-of-purple&show_icons=true&hide_border=true&layout=compact)
+[![Mstxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mstxz)](https://github.com/anuraghazra/github-readme-stats)
