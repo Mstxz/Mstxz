@@ -59,30 +59,13 @@ I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMI
 
 ## Social Media 📲
 
-<a href="https://instagram.com/mstxz.blend">
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-</a>
-<a href="https://www.youtube.com/@Mstxz-exe">
-  ![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)
-</a>
-<a href="https://soundcloud.com/mstxz-exe">
-  ![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)
-</a>
-<a href="https://www.linkedin.com/in/mewadee-seeda-1bb16830b/">
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
-<a href="https://mstxz.itch.io/">
-  ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
-</a>
-<a href="https://www.artstation.com/mstxz_exe">
-  ![Artstation](https://img.shields.io/badge/Artstation-303030?style=for-the-badge&logo=artstation)
-</a>
-<a href="https://sketchfab.com/MysticzXD">
-  ![Sketchfab](https://img.shields.io/badge/sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)
-</a>
-
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mstxz.blend)
+[![YouTube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/@Mstxz-exe)
+[![SoundCloud](https://img.shields.io/badge/soundcloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/mstxz-exe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mewadee-seeda-1bb16830b/)
+[![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://mstxz.itch.io/)
+[![ArtStation](https://img.shields.io/badge/Artstation-303030?style=for-the-badge&logo=artstation)](https://www.artstation.com/mstxz_exe)
+[![Sketchfab](https://img.shields.io/badge/sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white)](https://sketchfab.com/MysticzXD)
 
 ## GitHub Stats 📊
 
