@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Slim&pause=1000&color=E8F5F7&background=231537C1&center=true&vCenter=true&width=600&lines=Mstxz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nova+Slim&size=36&duration=3000&pause=3000&color=6558A0&center=true&vCenter=true&width=800&lines=Beyond+%22Imagination%22;Through+%22Reality%22)](https://git.io/typing-svg)
 
 I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMITL.
 
