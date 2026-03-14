@@ -62,5 +62,5 @@ I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMI
 
 ## GitHub Stats 📊
 
-![Mstxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mstxz&commits_year=2025)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&layout=compact&theme=radical&hide=tcl,cython,c,makefile,c%2B%2B,gsc)](https://github.com/anuraghazra/github-readme-stats)
+![Mstxz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mstxz&show_icons=true&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mstxz&layout=compact&theme=prussian&hide=tcl,gsc,cython,makefile,c%2B%2B,c%23,c,shell,gdscript,typescript,ejs)
