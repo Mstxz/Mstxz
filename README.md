@@ -3,11 +3,10 @@
 I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMITL.
 
 ## Experiences ⭐
-- **Game Development**
-- **2D/3D Art**
-- **Graphic Design**
-- **Web Development**
-- **Music Production**
+- **Game Development** (Expert)
+- **3D Art & Animation** (Expert)
+- **Front-end Development** (Intermediate)
+- **Music Production** (Expert)
 
 ## Tech Stack 💻
 
