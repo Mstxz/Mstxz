@@ -23,7 +23,7 @@ I'm just a normal **Game Developer**. Study at B.Sc. Information Technology, KMI
 
 ### 3D
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Maya](https://img.shields.io/badge/autodeskmaya-%2337A5CC.svg?style=for-the-badge&logo=blender&logoColor=white)
+![Maya](https://img.shields.io/badge/autodeskmaya-%2337A5CC.svg?style=for-the-badge&logo=autodeskmaya&logoColor=white)
 
 ### 2D
 ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
